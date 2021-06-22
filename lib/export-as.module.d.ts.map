@@ -1,0 +1,1 @@
+{"version":3,"file":"export-as.module.d.ts","sources":["export-as.module.d.ts"],"names":[],"mappings":";AAAA;;;;AACA","sourcesContent":["export declare class ExportAsModule {\r\n}\r\n"]}

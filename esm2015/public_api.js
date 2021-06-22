@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of ngx-export-as
+ */
+export * from './lib/export-as.service';
+export * from './lib/export-as-config.model';
+export * from './lib/export-as.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL25neC1leHBvcnQtYXMvc3JjL3B1YmxpY19hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLHlCQUF5QixDQUFDO0FBQ3hDLGNBQWMsOEJBQThCLENBQUM7QUFDN0MsY0FBYyx3QkFBd0IsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXHJcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBuZ3gtZXhwb3J0LWFzXHJcbiAqL1xyXG5cclxuZXhwb3J0ICogZnJvbSAnLi9saWIvZXhwb3J0LWFzLnNlcnZpY2UnO1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9leHBvcnQtYXMtY29uZmlnLm1vZGVsJztcclxuZXhwb3J0ICogZnJvbSAnLi9saWIvZXhwb3J0LWFzLm1vZHVsZSc7XHJcbiJdfQ==
